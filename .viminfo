@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1714244763,,"q!"
 :wq!
-|2,0,1714243367,,"wq!"
+|2,0,1714244604,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -23,22 +25,82 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	g
+|3,1,36,0,1,0,1714244577,"g"
 
 # File marks:
-'0  37  1  ~/file.java
-|4,48,37,1,1714243367,"~/file.java"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1714244763,"~/.git/COMMIT_EDITMSG"
+'1  35  0  ~/file.java
+|4,49,35,0,1714244604,"~/file.java"
+'2  29  0  ~/file.java
+|4,50,29,0,1714244440,"~/file.java"
+'3  29  0  ~/file.java
+|4,51,29,0,1714244440,"~/file.java"
+'4  37  1  ~/file.java
+|4,52,37,1,1714243367,"~/file.java"
+'5  37  1  ~/file.java
+|4,53,37,1,1714243367,"~/file.java"
+'6  37  1  ~/file.java
+|4,54,37,1,1714243367,"~/file.java"
+'7  37  1  ~/file.java
+|4,55,37,1,1714243367,"~/file.java"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1714244763,"~/.git/COMMIT_EDITMSG"
+-'  35  0  ~/file.java
+|4,39,35,0,1714244604,"~/file.java"
+-'  35  0  ~/file.java
+|4,39,35,0,1714244604,"~/file.java"
+-'  29  0  ~/file.java
+|4,39,29,0,1714244543,"~/file.java"
+-'  29  0  ~/file.java
+|4,39,29,0,1714244543,"~/file.java"
+-'  29  0  ~/file.java
+|4,39,29,0,1714244440,"~/file.java"
+-'  29  0  ~/file.java
+|4,39,29,0,1714244440,"~/file.java"
+-'  37  1  ~/file.java
+|4,39,37,1,1714244417,"~/file.java"
+-'  37  1  ~/file.java
+|4,39,37,1,1714244417,"~/file.java"
+-'  37  1  ~/file.java
+|4,39,37,1,1714244417,"~/file.java"
+-'  37  1  ~/file.java
+|4,39,37,1,1714244417,"~/file.java"
 -'  37  1  ~/file.java
 |4,39,37,1,1714243367,"~/file.java"
+-'  37  1  ~/file.java
+|4,39,37,1,1714243367,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1714243313,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1714243313,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1714243313,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1714243313,"~/file.java"
+-'  1  0  ~/file.java
+|4,39,1,0,1714243313,"~/file.java"
 -'  1  0  ~/file.java
 |4,39,1,0,1714243313,"~/file.java"
 
 # History of marks within files (newest to oldest):
 
+> ~/.git/COMMIT_EDITMSG
+	*	1714244740	0
+	"	1	0
+
 > ~/file.java
-	*	1714243357	0
-	"	37	1
+	*	1714244578	0
+	"	35	0
 	^	37	2
-	.	37	1
+	.	34	0
 	+	37	1
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
